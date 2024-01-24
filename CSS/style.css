@@ -98,20 +98,3 @@
 .box a {
   color: rgb(2, 40, 163);
 }
-
-@media (max-width: 768px) {
-  .header .container {
-    flex-direction: column;
-    padding-top: 20px;
-    text-align: center;
-  }
-
-  .boxes .container {
-    display: block;
-    text-align: center;
-  }
-
-  .projectBox {
-    overflow: auto;
-  }
-}
